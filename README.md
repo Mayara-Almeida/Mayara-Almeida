@@ -6,6 +6,8 @@
 
 #
 
-👩🏻‍💻 **`Desenvolvedora FullStack em formação`**
+<h3 align="left"> 👩🏻‍💻 Sobre mim</h3>
+
+**`Desenvolvedora FullStack em formação`**
 
 Estudante de Desenvolvimento de Sistemas no SENAI Informática Paulo Antônio Skaf, com grande interesse em tecnologia e desenvolvimento web. Busco aprimorar constantemente minhas habilidades, adquirir experiência prática e contribuir com projetos e soluções criativas.
