@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=DD05D0&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Me+chamo+Mayara+Almeida%F0%9F%98%8A;%E2%9C%A8Seja+bem+vindo+ao+meu+perfil%E2%9C%A8" alt="Typing SVG" />
+    </a>
+</div>
 
 <!--
 **Mayara-Almeida/Mayara-Almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
