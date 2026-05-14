@@ -4,7 +4,7 @@
     </a>
 </div>
 
----
+#
 
 <h3 align="left"> 👩🏻‍💻 Sobre mim</h3>
 
@@ -12,8 +12,9 @@
 
 <p> Estudante do 3º semestre de Desenvolvimento de Sistemas no SENAI Informática Paulo Antônio Skaf, com grande interesse em tecnologia e desenvolvimento web. Busco aprimorar constantemente minhas habilidades, adquirir experiência prática e contribuir com projetos e soluções criativas.
 
----
-<img align="right" alt="" height="190px" src=".assets/study.gif>
+#
+
+<img align="right" alt="" height="190px" src="./assets/study.gif"> 
 
 <h3 align="left">🌐 Conecte-se comigo!</h3>
 
