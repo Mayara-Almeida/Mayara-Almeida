@@ -14,7 +14,7 @@
 
 #
 
-<img align="right" alt="" height="190px" src="./assets/study.gif"> 
+<img align="right" alt="" height="180px" src="./assets/study.gif"> 
 
 <h3 align="left">🌐 Conecte-se comigo!</h3>
 
@@ -24,8 +24,8 @@
 <h3 align="left">💻 Linguagens</h3>
 
 <div >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="25" alt="html5 logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="25" alt="css3 logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="25" alt="csharp logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="28" alt="html5 logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="28" alt="css3 logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="28" alt="javascript logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="28" alt="csharp logo"/>
 </div>
