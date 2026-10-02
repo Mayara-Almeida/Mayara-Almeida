@@ -10,7 +10,7 @@
 
 **`Desenvolvedora FullStack em formação`**
 
-Estudante do 3º semestre de Desenvolvimento de Sistemas no SENAI Informática Paulo Antônio Skaf, com grande interesse em tecnologia e desenvolvimento web. Busco aprimorar constantemente minhas habilidades, adquirir experiência prática e contribuir com projetos e soluções criativas.
+Estudante do 4º semestre de Desenvolvimento de Sistemas no SENAI Informática Paulo Antônio Skaf, com grande interesse em tecnologia e desenvolvimento web. Busco aprimorar constantemente minhas habilidades, adquirir experiência prática e contribuir com projetos e soluções criativas.
 
 #
 
